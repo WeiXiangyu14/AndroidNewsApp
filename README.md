@@ -5,18 +5,14 @@ An android news application. I wrote it when learning Java.
 
 
 
+![and1](http://github.com/WeiXiangyu14/AndroidNewsApp/raw/master/img/and1.png)
+
+![and2](http://github.com/WeiXiangyu14/AndroidNewsApp/raw/master/img/and2.png)
 
 
 
-
-![and1](C:\Users\weixy\Desktop\and1.png)
-
-![and2](C:\Users\weixy\Pictures\and2.png)
+![and3](http://github.com/WeiXiangyu14/AndroidNewsApp/raw/master/img/and3.png)
 
 
 
-![and3](C:\Users\weixy\Pictures\and3.png)
-
-
-
-![and4](C:\Users\weixy\Desktop\and4.png)
+![and4](http://github.com/WeiXiangyu14/AndroidNewsApp/raw/master/img/and4.png)
