@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lightgreen">
+
+        <TextView
+            android:id="@+id/aboutme_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="About Me" >
+        </TextView>
+
+    </android.support.v7.widget.Toolbar>
+
+    <ImageView
+        android:id="@+id/aboutme_pic"
+        android:layout_width="438dp"
+        android:layout_height="388dp"
+        android:layout_gravity="center"
+        android:src="@mipmap/happytogether"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/aboutme_text"
+        android:layout_width="match_parent"
+        android:layout_height="155dp"
+        android:gravity="center_horizontal"
+
+
+        android:text="WeiXiangyu \n 2014011312 \n E-mail:weixy14@163.com \n Tel:18813086399"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:layout_weight="1" />
+
+</LinearLayout>

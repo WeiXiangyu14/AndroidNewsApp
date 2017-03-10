@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cm_back"
+            android:background="#00000000"
+            android:src="@mipmap/backb" />
+
+        <TextView
+            android:id="@+id/favourite_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:textSize="23sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="    Category Management" >
+        </TextView>
+
+    </android.support.v7.widget.Toolbar>
+
+    <ListView
+        android:id="@+id/cm_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"/>
+
+</LinearLayout>

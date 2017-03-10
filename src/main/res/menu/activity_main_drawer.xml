@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_favourite"
+            android:icon="@mipmap/blue_favorite"
+            android:title="Favourites" />
+        <item
+            android:id="@+id/nav_cm"
+            android:icon="@mipmap/black_settings"
+            android:title="Category Management" />
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@mipmap/about_me"
+                android:title="About Me" />
+
+        </menu>
+    </item>
+
+</menu>
