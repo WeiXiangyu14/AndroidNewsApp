@@ -1,2 +1,6 @@
 # Android_NewsApp
-2016 Summer . Java Semester . Big Homework
+An android news application. I wrote it when learning Java.
+
+![](C:\Users\weixy\Desktop\and1.png)
+
+![and2](C:\Users\weixy\Desktop\and4.png)
